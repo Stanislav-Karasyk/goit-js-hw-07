@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  border-style: border-box;
+}
+
+/* ====================task-3=========================== */
+
+.gallery {
+  display: flex;
+}
